@@ -1,0 +1,11 @@
+user_id,two_factor_enabled,two_factor_method,security_question,security_answer
+1,True,SMS,First pet name?,$2b$12$ans1
+2,False,,,
+3,True,Authenticator App,Mother's maiden name?,$2b$12$ans3
+4,False,,Favorite color?,$2b$12$ans4
+5,True,Email,Birth city?,$2b$12$ans5
+6,False,,,
+7,True,SMS,High school name?,$2b$12$ans7
+8,False,,Favorite movie?,$2b$12$ans8
+9,False,,,
+10,True,Authenticator App,First car model?,$2b$12$ans10

@@ -1,0 +1,11 @@
+PaymentID,OrderID,PaymentMethod,PaymentDate,PaymentAmount,PaymentStatus
+30001,20001,Bank Transfer,2025-06-06,189.09,Pending
+30002,20002,Bank Transfer,2025-06-04,238.42,Completed
+30003,20003,Bank Transfer,2025-05-28,216.08,Completed
+30004,20004,Credit Card,2025-05-26,343.58,Pending
+30005,20005,Bank Transfer,2025-05-29,142.35,Completed
+30006,20006,Credit Card,2025-06-02,201.15,Completed
+30007,20007,Credit Card,2025-06-04,366.9,Pending
+30008,20008,Bank Transfer,2025-06-02,445.25,Completed
+30009,20009,Credit Card,2025-05-26,95.15,Completed
+30010,20010,Credit Card,2025-05-18,256.92,Completed

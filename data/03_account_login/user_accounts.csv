@@ -1,0 +1,11 @@
+user_id,email,password_hash,phone_number,account_status,creation_date,last_login_date
+1,user457@example.com,$2b$12$hash457,010-1234-0457,Active,2023-09-31,2025-06-12 10:15:00
+2,user458@example.com,$2b$12$hash458,010-1234-0458,Active,2024-02-12,2025-06-12 09:45:00
+3,user459@example.com,$2b$12$hash459,010-1234-0459,Active,,2025-06-12 08:11:24
+4,user460@example.com,$2b$12$hash460,010-1234-0460,Active,2024-05-08,2025-06-11 22:02:10
+5,user461@example.com,$2b$12$hash461,010-1234-0461,Suspended,2019-12-15,2025-05-02 17:35:12
+6,user462@example.com,$2b$12$hash462,010-1234-0462,Active,2010-03-25,2025-06-09 10:02:11
+7,user463@example.com,$2b$12$hash463,,Active,2025-06-10,2025-06-10 14:21:00
+8,user464@example.com,$2b$12$hash464,010-1234-0464,Active,2018-07-30,2025-06-12 12:00:01
+9,user465@example.com,$2b$12$hash465,010-1234-0465,Active,2023-08-17,
+10,user466@example.com,$2b$12$hash466,010-1234-0466,Active,2000-01-01,2025-06-01 09:30:44

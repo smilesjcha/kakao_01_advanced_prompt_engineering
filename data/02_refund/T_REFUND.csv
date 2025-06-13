@@ -1,0 +1,9 @@
+RefundID,PaymentID,RefundRequestDate,RefundReason,RefundAmount,RefundStatus,ProcessedDate
+40001,30001,2025-05-25,Change of Mind,189.09,Requested,
+40002,30002,2025-06-08,Change of Mind,238.42,Processing,
+40003,30003,2025-06-07,Product Defect,216.08,Completed,2025-06-12
+40005,30005,2025-05-24,Change of Mind,142.35,Denied,
+40006,30006,2025-06-04,Change of Mind,100.58,Completed,2025-06-11
+40008,30008,2025-06-11,Change of Mind,445.25,Processing,
+40009,30009,2025-05-25,Product Defect,95.15,Completed,2025-06-11
+40010,30010,2025-06-05,Product Defect,256.92,Completed,2025-06-13

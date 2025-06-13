@@ -1,0 +1,11 @@
+login_id,user_id,login_timestamp,login_ip,login_result,device_info
+1,1,2025-06-12 10:15:00,192.300.1.256,Success,Chrome on Windows 10
+2,2,2025-06-12 09:45:00,203.0.113.15,Success,Safari on iOS
+3,3,2025-06-12 08:11:24,198.51.100.23,Success,Edge on Windows 11
+4,4,2025-06-11 22:02:10,???.???.???.???,Failed,Unknown Device
+5,5,2025-05-02 17:35:12,10.0.0.1,Success,Internal Network Device
+6,6,2025-06-09 10:02:11,172.16.254.1,Failed,Android 14
+7,7,2025-06-10 14:21:00,192.0.2.44,Success,Chrome on macOS
+8,8,2025-06-12 12:00:01,198.51.100.33,Success,Firefox on Ubuntu
+9,9,2025-06-12 13:00:00,,Success,ChromeOS
+10,10,2025-06-01 09:30:44,203.0.113.45,Success,Safari on macOS

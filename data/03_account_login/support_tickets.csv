@@ -1,0 +1,11 @@
+ticket_id,user_id,issue_category,issue_description,status,created_date,last_updated_date
+1,1,account_login,Invalid IP 192.300.1.256 and impossible creation date 2023-09-31 showing in my account.,Open,2025-06-12 10:20:00,
+2,2,account_login,Login from overseas IP 203.0.113.15 that I don't recognize.,Open,2025-06-12 09:50:00,
+3,3,account_login,Account creation date is blank in dashboard.,Open,2025-06-12 08:20:00,
+4,4,account_login,Multiple failed logins from unknown device 'Unknown Device'.,Open,2025-06-11 22:10:00,
+5,5,account_login,Creation date shows 2019 but service launched later. Data error?,Open,2025-05-02 17:40:00,
+6,6,account_login,Questionable internal IP 10.0.0.1 in login history.,Open,2025-06-09 10:05:00,
+7,7,account_login,Login IP shows '???' characters. Is my data safe?,Open,2025-06-10 14:25:00,
+8,8,account_login,Device listed as Ubuntu but I never used Ubuntu.,Open,2025-06-12 12:05:00,
+9,9,account_login,No login history shown at all despite daily use.,Open,2025-06-12 13:05:00,
+10,10,account_login,Duplicate login timestamps appearing in history.,Open,2025-06-01 09:35:00,

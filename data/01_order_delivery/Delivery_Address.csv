@@ -1,0 +1,11 @@
+address_id,customer_id,address_type,address_line1,address_line2,postal_code,city,is_default
+A001,C001,home,63 Seoul‑ro,Apt 551,32467,Seoul,1
+A002,C002,home,70 Busan‑ro,Apt 952,65451,Busan,1
+A003,C003,home,74 Incheon‑ro,Apt 330,87433,Incheon,1
+A004,C004,home,51 Daegu‑ro,Apt 808,34637,Daegu,1
+A005,C005,home,7 Daejeon‑ro,Apt 421,64808,Daejeon,1
+A006,C006,home,4 Gwangju‑ro,Apt 255,32813,Gwangju,1
+A007,C007,home,73 Ulsan‑ro,Apt 190,97986,Ulsan,1
+A008,C008,home,74 Sejong‑ro,Apt 745,96876,Sejong,1
+A009,C009,home,8 Suwon‑ro,Apt 615,77580,Suwon,1
+A010,C010,home,56 Jeju‑ro,Apt 1750,51167,Jeju,1

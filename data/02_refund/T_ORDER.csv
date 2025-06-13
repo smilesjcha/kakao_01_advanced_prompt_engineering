@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductName,Quantity,OrderDate,DeliveryStatus
+20001,1,Bluetooth Earbuds,1,2025-05-20,Pending
+20002,2,Smartwatch,3,2025-05-17,Delivered
+20003,3,Wireless Mouse,3,2025-05-05,Pending
+20004,4,USB-C Hub,3,2025-05-10,Shipped
+20005,5,Portable SSD,2,2025-05-20,Delivered
+20006,6,Gaming Keyboard,1,2025-05-20,Shipped
+20007,7,Noise-Cancelling Headphones,2,2025-05-21,Shipped
+20008,8,Action Camera,1,2025-05-24,Shipped
+20009,9,E‑Reader,3,2025-05-15,Shipped
+20010,10,Fitness Tracker,2,2025-06-01,Shipped

@@ -1,0 +1,11 @@
+customer_id,customer_name,contact,email,primary_address_id,register_date,notes
+C001,Alice Kim,010-1456-3540,alice@example.com,A001,2024-08-27,
+C002,Bob Lee,010-8074-5410,bob@example.com,A002,2024-10-25,
+C003,Cathy Park,010-9966-1836,cathy@example.com,A003,2024-12-08,
+C004,David Choi,010-1633-6893,david@example.com,A004,2025-01-10,
+C005,Eunji Han,010-8612-8148,eunji@example.com,A005,2024-09-24,
+C006,Frank Seo,010-5520-3363,frank@example.com,A006,2024-09-12,
+C007,Grace Lim,010-9013-4886,grace@example.com,A007,2024-11-12,
+C008,Henry Kang,010-1101-1783,henry@example.com,A008,2024-08-09,
+C009,Irene Moon,010-3809-3681,irene@example.com,A009,2024-07-10,
+C010,Jin Park,010-2527-3273,jin@example.com,A010,2024-10-23,
