@@ -1,8 +1,3 @@
-물론입니다! 아래는 요청하신 내용을 바탕으로 `README.md` 파일의 예시입니다:
-
----
-
-```markdown
 # kakao_01_advanced_prompt_engineering
 
 **카카오 개발자 대상 고급 프롬프트 엔지니어링 강의 (with LLMOps)**  
@@ -53,7 +48,7 @@ kakao\_01\_advanced\_prompt\_engineering/
 ├── LICENSE
 └── README.md
 
-````
+```
 
 ---
 
@@ -63,7 +58,7 @@ kakao\_01\_advanced\_prompt\_engineering/
 
    ```bash
    cp .env.sample .env
-````
+   ```
 
 2. `.env` 파일 내 각 환경 변수 값(OpenAI API Key 등)을 본인의 설정에 맞게 채워 넣습니다.
 
