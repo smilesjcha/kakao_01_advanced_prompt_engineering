@@ -1,0 +1,8 @@
+issue_id,order_id,issue_date,issue_description,resolution_status,updated_date
+I001,O001,2025-06-13 00:00:00,Shipping stalled at pending; address change not applied.,open,2025-06-13 00:00:00
+I003,O003,2025-06-13 00:00:00,No shipping company assigned; address change pending.,open,2025-06-13 00:00:00
+I005,O005,2025-06-13 00:00:00,Tracking number not found in carrier system.,open,2025-06-13 00:00:00
+I006,O006,2025-06-13 00:00:00,Package marked delivered but customer not home.,open,2025-06-13 00:00:00
+I007,O007,2025-06-13 00:00:00,Weather‑related hub backlog causing delay.,open,2025-06-13 00:00:00
+I009,O009,2025-06-13 00:00:00,Order cancelled but status stuck at 'Ready'.,open,2025-06-13 00:00:00
+I010,O010,2025-06-13 00:00:00,"Address changed after order, fearing delay.",open,2025-06-13 00:00:00

@@ -1,0 +1,11 @@
+CustomerID,Name,Email,PhoneNumber,Address,VIPLevel
+1,Customer1,customer1@example.com,010-3950-4706,"Seoul, Korea",Gold
+2,Customer2,customer2@example.com,010-5378-5423,"Seoul, Korea",Silver
+3,Customer3,customer3@example.com,010-1381-4653,"Seoul, Korea",Gold
+4,Customer4,customer4@example.com,010-0619-7345,"Seoul, Korea",None
+5,Customer5,customer5@example.com,010-8336-8441,"Seoul, Korea",None
+6,Customer6,customer6@example.com,010-7257-1072,"Seoul, Korea",None
+7,Customer7,customer7@example.com,010-0536-9044,"Seoul, Korea",Gold
+8,Customer8,customer8@example.com,010-3993-0336,"Seoul, Korea",Gold
+9,Customer9,customer9@example.com,010-5455-9267,"Seoul, Korea",Gold
+10,Customer10,customer10@example.com,010-6270-5249,"Seoul, Korea",None
